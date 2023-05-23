@@ -1,0 +1,573 @@
+[
+    {
+        "coord": { "lon": -3.7942, "lat": 40.2842 },
+        "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.06,
+        "feels_like": 288.82,
+        "temp_min": 288.26,
+        "temp_max": 290.43,
+        "pressure": 1014,
+        "humidity": 81
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 40 },
+        "dt": 1684861966,
+        "sys": {
+        "type": 1,
+        "id": 6409,
+        "country": "ES",
+        "sunrise": 1684817588,
+        "sunset": 1684870258
+        },
+        "timezone": 7200,
+        "id": 3121960,
+        "name": "Fuenlabrada",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.865, "lat": 40.3223 },
+        "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.33,
+        "feels_like": 289.09,
+        "temp_min": 288.34,
+        "temp_max": 290.51,
+        "pressure": 1014,
+        "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 75 },
+        "dt": 1684862190,
+        "sys": {
+        "type": 1,
+        "id": 6443,
+        "country": "ES",
+        "sunrise": 1684817599,
+        "sunset": 1684870281
+        },
+        "timezone": 7200,
+        "id": 3116025,
+        "name": "Móstoles",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.7635, "lat": 40.3272 },
+        "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.14,
+        "feels_like": 288.86,
+        "temp_min": 288.28,
+        "temp_max": 290.45,
+        "pressure": 1014,
+        "humidity": 79
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 75 },
+        "dt": 1684862377,
+        "sys": {
+        "type": 1,
+        "id": 6443,
+        "country": "ES",
+        "sunrise": 1684817573,
+        "sunset": 1684870257
+        },
+        "timezone": 7200,
+        "id": 3118594,
+        "name": "Leganés",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -4.017, "lat": 40.7291 },
+        "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 286.24,
+        "feels_like": 285.48,
+        "temp_min": 284.19,
+        "temp_max": 287,
+        "pressure": 1014,
+        "humidity": 72
+        },
+        "visibility": 10000,
+        "wind": { "speed": 0.97, "deg": 97, "gust": 2.57 },
+        "clouds": { "all": 88 },
+        "dt": 1684862440,
+        "sys": {
+        "type": 2,
+        "id": 2077468,
+        "country": "ES",
+        "sunrise": 1684817566,
+        "sunset": 1684870387
+        },
+        "timezone": 7200,
+        "id": 3115704,
+        "name": "Navacerrada",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.4826, "lat": 40.1014 },
+        "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.28,
+        "feels_like": 288.65,
+        "temp_min": 288.96,
+        "temp_max": 290.1,
+        "pressure": 1012,
+        "humidity": 65,
+        "sea_level": 1012,
+        "grnd_level": 939
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.72, "deg": 87, "gust": 3.71 },
+        "clouds": { "all": 97 },
+        "dt": 1684862475,
+        "sys": {
+        "type": 2,
+        "id": 2009225,
+        "country": "ES",
+        "sunrise": 1684817544,
+        "sunset": 1684870152
+        },
+        "timezone": 7200,
+        "id": 3105694,
+        "name": "Villaconejos",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.8285, "lat": 40.3492 },
+        "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 288.94,
+        "feels_like": 288.61,
+        "temp_min": 288.44,
+        "temp_max": 290.16,
+        "pressure": 1014,
+        "humidity": 78
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 75 },
+        "dt": 1684862704,
+        "sys": {
+        "type": 1,
+        "id": 6443,
+        "country": "ES",
+        "sunrise": 1684817585,
+        "sunset": 1684870277
+        },
+        "timezone": 7200,
+        "id": 6359233,
+        "name": "Alcorcón",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.6291, "lat": 40.5362 },
+        "weather": [
+        {
+            "id": 520,
+            "main": "Rain",
+            "description": "light intensity shower rain",
+            "icon": "09d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.38,
+        "feels_like": 289.1,
+        "temp_min": 288.84,
+        "temp_max": 290.59,
+        "pressure": 1013,
+        "humidity": 78
+        },
+        "visibility": 10000,
+        "wind": { "speed": 4.63, "deg": 150 },
+        "rain": { "1h": 0.18 },
+        "clouds": { "all": 75 },
+        "dt": 1684862733,
+        "sys": {
+        "type": 1,
+        "id": 6421,
+        "country": "ES",
+        "sunrise": 1684817506,
+        "sunset": 1684870261
+        },
+        "timezone": 7200,
+        "id": 6359232,
+        "name": "Alcobendas",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.3402, "lat": 40.4994 },
+        "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.58,
+        "feels_like": 289.37,
+        "temp_min": 288.19,
+        "temp_max": 290.7,
+        "pressure": 1013,
+        "humidity": 80
+        },
+        "visibility": 10000,
+        "wind": { "speed": 4.63, "deg": 150 },
+        "clouds": { "all": 40 },
+        "dt": 1684862754,
+        "sys": {
+        "type": 2,
+        "id": 2018652,
+        "country": "ES",
+        "sunrise": 1684817443,
+        "sunset": 1684870185
+        },
+        "timezone": 7200,
+        "id": 6359231,
+        "name": "Alcalá de Henares",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.6598, "lat": 40.2946 },
+        "weather": [
+        {
+            "id": 520,
+            "main": "Rain",
+            "description": "light intensity shower rain",
+            "icon": "09d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.78,
+        "feels_like": 289.61,
+        "temp_min": 289.3,
+        "temp_max": 290.47,
+        "pressure": 1014,
+        "humidity": 81
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "rain": { "1h": 0.12 },
+        "clouds": { "all": 40 },
+        "dt": 1684862797,
+        "sys": {
+        "type": 1,
+        "id": 6409,
+        "country": "ES",
+        "sunrise": 1684817554,
+        "sunset": 1684870227
+        },
+        "timezone": 7200,
+        "id": 6359291,
+        "name": "Getafe",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.6025, "lat": 40.0311 },
+        "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.9,
+        "feels_like": 289.35,
+        "temp_min": 288.77,
+        "temp_max": 290.51,
+        "pressure": 1012,
+        "humidity": 66,
+        "sea_level": 1012,
+        "grnd_level": 954
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.89, "deg": 50, "gust": 3.58 },
+        "clouds": { "all": 97 },
+        "dt": 1684862879,
+        "sys": {
+        "type": 1,
+        "id": 6409,
+        "country": "ES",
+        "sunrise": 1684817584,
+        "sunset": 1684870169
+        },
+        "timezone": 7200,
+        "id": 3129857,
+        "name": "Aranjuez",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.6832, "lat": 40.2589 },
+        "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.56,
+        "feels_like": 289.42,
+        "temp_min": 289.16,
+        "temp_max": 290.32,
+        "pressure": 1014,
+        "humidity": 83
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 40 },
+        "dt": 1684862866,
+        "sys": {
+        "type": 1,
+        "id": 6409,
+        "country": "ES",
+        "sunrise": 1684817566,
+        "sunset": 1684870227
+        },
+        "timezone": 7200,
+        "id": 6359334,
+        "name": "Pinto",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.6789, "lat": 40.1908 },
+        "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.51,
+        "feels_like": 289.34,
+        "temp_min": 289.11,
+        "temp_max": 290.27,
+        "pressure": 1014,
+        "humidity": 82
+        },
+        "visibility": 10000,
+        "wind": { "speed": 4.12, "deg": 110 },
+        "clouds": { "all": 40 },
+        "dt": 1684862879,
+        "sys": {
+        "type": 1,
+        "id": 6409,
+        "country": "ES",
+        "sunrise": 1684817576,
+        "sunset": 1684870214
+        },
+        "timezone": 7200,
+        "id": 3106868,
+        "name": "Valdemoro",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.5613, "lat": 40.4238 },
+        "weather": [
+        {
+            "id": 520,
+            "main": "Rain",
+            "description": "light intensity shower rain",
+            "icon": "09d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.56,
+        "feels_like": 289.29,
+        "temp_min": 289.01,
+        "temp_max": 290.2,
+        "pressure": 1014,
+        "humidity": 78
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "rain": { "1h": 0.14 },
+        "clouds": { "all": 75 },
+        "dt": 1684862882,
+        "sys": {
+        "type": 1,
+        "id": 6421,
+        "country": "ES",
+        "sunrise": 1684817509,
+        "sunset": 1684870225
+        },
+        "timezone": 7200,
+        "id": 3124408,
+        "name": "Coslada",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.8718, "lat": 40.4735 },
+        "weather": [
+        {
+            "id": 803,
+            "main": "Clouds",
+            "description": "broken clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 288.78,
+        "feels_like": 288.46,
+        "temp_min": 288.25,
+        "temp_max": 289.42,
+        "pressure": 1013,
+        "humidity": 79
+        },
+        "visibility": 10000,
+        "wind": { "speed": 5.14, "deg": 110 },
+        "clouds": { "all": 75 },
+        "dt": 1684863018,
+        "sys": {
+        "type": 2,
+        "id": 2034952,
+        "country": "ES",
+        "sunrise": 1684817575,
+        "sunset": 1684870308
+        },
+        "timezone": 7200,
+        "id": 3117667,
+        "name": "Majadahonda",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.9027, "lat": 40.8621 },
+        "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 285.78,
+        "feels_like": 284.87,
+        "temp_min": 284.52,
+        "temp_max": 286.4,
+        "pressure": 1013,
+        "humidity": 68,
+        "sea_level": 1013,
+        "grnd_level": 874
+        },
+        "visibility": 10000,
+        "wind": { "speed": 1.8, "deg": 86, "gust": 3.8 },
+        "clouds": { "all": 88 },
+        "dt": 1684863209,
+        "sys": {
+        "type": 2,
+        "id": 2077468,
+        "country": "ES",
+        "sunrise": 1684817516,
+        "sunset": 1684870382
+        },
+        "timezone": 7200,
+        "id": 6359341,
+        "name": "Rascafría",
+        "cod": 200
+    },
+    {
+        "coord": { "lon": -3.3699, "lat": 38.9991 },
+        "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+        ],
+        "base": "stations",
+        "main": {
+        "temp": 289.94,
+        "feels_like": 289.76,
+        "temp_min": 289.9,
+        "temp_max": 290.16,
+        "pressure": 1011,
+        "humidity": 80,
+        "sea_level": 1011,
+        "grnd_level": 935
+        },
+        "visibility": 10000,
+        "wind": { "speed": 6, "deg": 85, "gust": 9.91 },
+        "clouds": { "all": 100 },
+        "dt": 1684863271,
+        "sys": {
+        "type": 1,
+        "id": 6397,
+        "country": "ES",
+        "sunrise": 1684817698,
+        "sunset": 1684869944
+        },
+        "timezone": 7200,
+        "id": 2514190,
+        "name": "Manzanares",
+        "cod": 200
+    }
+]
